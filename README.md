@@ -1,16 +1,18 @@
-## Hi there 👋
+# Cristiano Sampaio
 
-<!--
-**cristiano-atlasos/cristiano-atlasos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder building **A/OS — an agent control plane for governed AI**
+**PolicyGates before action. DecisionTrace after.** SIEM/GRC-ready evidence out.
 
-Here are some ideas to get you started:
+🔭 Now: MVP on Lovable + Supabase • audit-first • OpenTelemetry
+🎯 SLOs: p95 eval < 300 ms • ≥95% traceability • ≤0.5/1k violations (synthetic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work on
+- PolicyGates: approve/hold/block before action
+- DecisionTrace: hash, actor, action, timestamp, redacted inputs
+- Evidence exports: NDJSON & OTel JSON → SIEM/GRC
+
+### Access
+Gated reviewer accounts on request → **theatlasos.com** • cristiano@theatlasos.com
+
+---
+*Repos I’ll publish here next:* `aos-decision-trace-schema` • `aos-policygates-checklist`
