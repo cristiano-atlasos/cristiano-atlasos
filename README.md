@@ -19,3 +19,4 @@ Gated reviewer accounts on request → **theatlasos.com** • cristiano@theatlas
 ### Latest releases
 - **DecisionTrace Schema v0.1 (draft):** [release notes](https://github.com/cristiano-atlasos/aos-decision-trace-schema/releases/tag/v0.1.0)
 - **Evidence Export Packs v0.1 (draft):** [release notes](https://github.com/cristiano-atlasos/aos-evidence-export-packs/releases/tag/v0.1.0)
+PolicyGates Checklist v0.1 (draft): [release notes](https://github.com/cristiano-atlasos/aos-policygates-checklist/releases/tag/v0.1.0)
