@@ -17,5 +17,5 @@ Gated reviewer accounts on request → **theatlasos.com** • cristiano@theatlas
 ---
 *Repos I’ll publish here next:* `aos-decision-trace-schema` • `aos-policygates-checklist`
 ### Latest releases
-- **DecisionTrace Schema v0.1 (draft):** <Release DecisionTrace Schema v0.1 (draft) · cristiano-atlasos/aos-decision-trace-schema>
-- **Evidence Export Packs v0.1 (draft):** <Release Evidence Export Packs v0.1 (draft) · cristiano-atlasos/aos-evidence-export-packs>
+- **DecisionTrace Schema v0.1 (draft):** [release notes](https://github.com/cristiano-atlasos/aos-decision-trace-schema/releases/tag/v0.1.0)
+- **Evidence Export Packs v0.1 (draft):** [release notes](https://github.com/cristiano-atlasos/aos-evidence-export-packs/releases/tag/v0.1.0)
